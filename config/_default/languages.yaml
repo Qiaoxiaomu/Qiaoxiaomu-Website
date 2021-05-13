@@ -12,11 +12,11 @@
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: Chinese website title...
+  title: 乔小墓の主页
   params:
-    description: Site description in Chinese...
+    description: 二次元退散！！！
   menu:
     main:
-      - name: 传
+      - name: 关于我
         url: '#about'
         weight: 1
